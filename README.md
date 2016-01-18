@@ -3,9 +3,8 @@ A python module for simple interaction with git via subprocess.
 
 ### How?
 ```
-# pip install simplegit
+pip install simplegit
 ```
-(note: this doesn't work via pip yet. Working on that.)
 ```python
 from simplegit import Git
 git = Git()
